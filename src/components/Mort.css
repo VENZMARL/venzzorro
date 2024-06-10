@@ -1,0 +1,84 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+
+    background-color: rgb(22, 27, 27);
+    height: 50vh;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.motorcycle {
+    background: white;
+    width: 300px;
+    height: 400px;
+    margin: 20px;
+    border-radius: 15px;
+ 
+}
+
+.motorcycle-image {
+    height: 200px;
+    margin-bottom: 15px;
+    background-size: cover;
+    border-radius: 15px 15px 0 0;
+}
+
+.mc-1 {
+
+    background-image: url(../../public/Motor\ 1.jpg);
+}
+.mc-2 {
+
+    background-image: url(../../public/Motor\ 2jpg.jpg);
+}
+
+.mc-3 {
+
+    background-image: url(../../public/Motor\ 3.png);
+}
+.mc-4 {
+
+    background-image: url(../../public/Motor\ 4.jpg);
+}
+.motorcycle h2 {
+    padding: 10px;
+}
+
+.motorcycle p {
+    padding: 10px;
+}
+
+.motorcycle a {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    display: block;
+    text-align: center;
+    margin: 20px 50px;
+}
+
+.motorcycle:hover {
+    background-color: chocolate;
+    color: white;
+    cursor: pointer;
+    transform: scale(1.03);
+    transition: all 1s ease;
+}
+
+.copyright {
+    background-color: rgb(107, 104, 99);
+    color: rgb(27, 26, 26);
+    text-align: center;
+    padding: 20px 10px 10px 20px;
+    margin-bottom: 20px;
+    line-height: 8.0;
+}

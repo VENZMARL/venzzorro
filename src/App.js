@@ -1,13 +1,17 @@
-import New from './New';
+// import './components/Mort.css'
+import Casa from './components/Casa';
+
+
 
 
 function App() {
   return (
-    <div>
-      <h1>Hellow World!</h1>
-      <h1>Hellow World!</h1>
+    <>
+      <Casa/>
       
-    </div>
+     
+
+    </>
   );
 }
 
