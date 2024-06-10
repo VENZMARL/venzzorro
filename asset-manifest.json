@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/venzzorro/static/css/main.778fd39a.css",
+    "main.css": "/venzzorro/static/css/main.3638316b.css",
     "main.js": "/venzzorro/static/js/main.5d96b791.js",
     "static/js/453.ed3810f9.chunk.js": "/venzzorro/static/js/453.ed3810f9.chunk.js",
     "static/media/Motor 3.png": "/venzzorro/static/media/Motor 3.2aa0c589ff1e01bc9cfb.png",
@@ -8,12 +8,12 @@
     "static/media/Motor 1.jpg": "/venzzorro/static/media/Motor 1.62b7ccb7aa7b1d646e15.jpg",
     "static/media/Motor 2jpg.jpg": "/venzzorro/static/media/Motor 2jpg.fdbc10a03450db421168.jpg",
     "index.html": "/venzzorro/index.html",
-    "main.778fd39a.css.map": "/venzzorro/static/css/main.778fd39a.css.map",
+    "main.3638316b.css.map": "/venzzorro/static/css/main.3638316b.css.map",
     "main.5d96b791.js.map": "/venzzorro/static/js/main.5d96b791.js.map",
     "453.ed3810f9.chunk.js.map": "/venzzorro/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.778fd39a.css",
+    "static/css/main.3638316b.css",
     "static/js/main.5d96b791.js"
   ]
 }
