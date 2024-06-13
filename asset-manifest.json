@@ -1,19 +1,23 @@
 {
   "files": {
-    "main.css": "/marl/static/css/main.4cae1b72.css",
-    "main.js": "/marl/static/js/main.751fb1f0.js",
-    "static/js/453.ed3810f9.chunk.js": "/marl/static/js/453.ed3810f9.chunk.js",
-    "static/media/bike 4.jpg": "/marl/static/media/bike 4.0638ab1ecbe946f161aa.jpg",
-    "static/media/bike 1.jpg": "/marl/static/media/bike 1.84d5357258e567cc021f.jpg",
-    "static/media/bike 2.jpg": "/marl/static/media/bike 2.f28f1e508e47e56ba1f4.jpg",
-    "static/media/bike 3.jpg": "/marl/static/media/bike 3.ad22b960aa250453c8da.jpg",
-    "index.html": "/marl/index.html",
-    "main.4cae1b72.css.map": "/marl/static/css/main.4cae1b72.css.map",
-    "main.751fb1f0.js.map": "/marl/static/js/main.751fb1f0.js.map",
-    "453.ed3810f9.chunk.js.map": "/marl/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/venz/static/css/main.773e57db.css",
+    "main.js": "/venz/static/js/main.25f93095.js",
+    "static/js/453.ed3810f9.chunk.js": "/venz/static/js/453.ed3810f9.chunk.js",
+    "static/media/Motor 3.png": "/venz/static/media/Motor 3.2aa0c589ff1e01bc9cfb.png",
+    "static/media/Motor 4.jpg": "/venz/static/media/Motor 4.1616f88172a103c72c83.jpg",
+    "static/media/bike 4.jpg": "/venz/static/media/bike 4.0638ab1ecbe946f161aa.jpg",
+    "static/media/bike 1.jpg": "/venz/static/media/bike 1.84d5357258e567cc021f.jpg",
+    "static/media/bike 2.jpg": "/venz/static/media/bike 2.f28f1e508e47e56ba1f4.jpg",
+    "static/media/Motor 1.jpg": "/venz/static/media/Motor 1.62b7ccb7aa7b1d646e15.jpg",
+    "static/media/Motor 2jpg.jpg": "/venz/static/media/Motor 2jpg.fdbc10a03450db421168.jpg",
+    "static/media/bike 3.jpg": "/venz/static/media/bike 3.ad22b960aa250453c8da.jpg",
+    "index.html": "/venz/index.html",
+    "main.773e57db.css.map": "/venz/static/css/main.773e57db.css.map",
+    "main.25f93095.js.map": "/venz/static/js/main.25f93095.js.map",
+    "453.ed3810f9.chunk.js.map": "/venz/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4cae1b72.css",
-    "static/js/main.751fb1f0.js"
+    "static/css/main.773e57db.css",
+    "static/js/main.25f93095.js"
   ]
 }
